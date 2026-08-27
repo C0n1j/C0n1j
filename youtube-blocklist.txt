@@ -1,0 +1,13 @@
+# Bloqueo principal de YouTube
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+
+# Bloqueo de imágenes y miniaturas
+ytimg.com
+s.ytimg.com
+i.ytimg.com
+
+# Bloqueo de la API (Apps de móvil y Smart TV)
+youtubei.googleapis.com
